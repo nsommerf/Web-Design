@@ -6,6 +6,14 @@
   color: #fff;
 }
 
+#jumbo {
+  padding: 40px;
+}
+
+#nobord {
+  border: 0;
+}
+
 .skyblue {
   color: deepskyblue;
 }
